@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="tec-ponto-tec.jpg" alt="TEC-PONTO-TEC" width="70%">
+<img src="tec-ponto-tec.jpg" alt="TEC-PONTO-TEC" width="50%" height="50%">
 <!--
 **genariomaciel/genariomaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
