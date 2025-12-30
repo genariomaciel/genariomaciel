@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![TEC-PONTO-TEC](tec-ponto-tec.jpg)
 <!--
 **genariomaciel/genariomaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
