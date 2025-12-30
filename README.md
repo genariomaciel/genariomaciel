@@ -1,5 +1,5 @@
 ## Hi there 👋
-![TEC-PONTO-TEC](tec-ponto-tec.jpg)
+<img src="tec-ponto-tec.jpg" alt="TEC-PONTO-TEC" width="70%">
 <!--
 **genariomaciel/genariomaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
