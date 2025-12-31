@@ -1,5 +1,5 @@
 ## Olá eu sou o **Genário Maciel**, especialista em desenvolvimento de sistemas!
-<p align="center"><img src="tec-ponto-tec.jpg" alt="TEC-PONTO-TEC" width="70%"></p>
+<p align="center"><img src="tec-ponto-tec.jpg" alt="TEC-PONTO-TEC" width="40%" height="40%"></p>
 
 <!--
 **genariomaciel/genariomaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
